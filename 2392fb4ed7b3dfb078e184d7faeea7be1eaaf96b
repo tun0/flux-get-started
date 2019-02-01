@@ -1,0 +1,1 @@
+{"jobID":"dd2759d2-49ea-5462-ebc1-ec9584872f22","spec":{"type":"policy","cause":{"Message":"","User":"Ruben Laban \u003cr.laban@treehouse.nl\u003e"},"spec":{"demo:helmrelease/redis":{"add":{},"remove":{"automated":"true"}}}},"result":null}
