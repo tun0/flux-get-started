@@ -1,0 +1,1 @@
+{"jobID":"1e8553db-21ac-775b-cfd6-fba575ef82db","spec":{"type":"policy","cause":{"Message":"","User":"Ruben Laban \u003cr.laban@treehouse.nl\u003e"},"spec":{"demo:helmrelease/redis":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
